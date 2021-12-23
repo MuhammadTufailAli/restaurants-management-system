@@ -1,0 +1,7 @@
+Manager login and password:
+Login: manager
+password: manager
+Cashier login and password:
+Login: cashier
+password: cashier
+XAMPP control panel is need to run it.
